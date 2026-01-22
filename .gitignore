@@ -1,0 +1,9 @@
+.vs/
+x64/
+WindowsOptimizer/x64/
+*.pdb
+*.obj
+*.log
+*.tlog
+*.iobj
+*.ipdb

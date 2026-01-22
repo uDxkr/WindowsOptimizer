@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="WindowsOptimizer/WindowsOptimizer.vcxproj" />
+  <Project Path="WindowsOptimizer/WindowsOptimizer.vcxproj" Id="6220bcba-93bd-4af4-8c50-bcc7a236f21b" />
 </Solution>
