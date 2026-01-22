@@ -23,8 +23,6 @@
 
 ##  Aviso de Segurança
 
-> **ATENÇÃO:** Muitas operações são destrutivas e irreversíveis!
-
 **Antes de usar:**
 -  Faça backup dos seus dados importantes
 -  Crie um ponto de restauração (opção `18`)
@@ -203,4 +201,5 @@ Se este projeto foi útil para você, considere dar uma ⭐ no GitHub!
 
 <p align="center">
   Feito com ❤️ por <a href="https://github.com/udxkr">uDxkr</a>
+
 </p>
