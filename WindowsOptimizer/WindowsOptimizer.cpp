@@ -62,7 +62,7 @@ void menu() {
     system(("title Cleaner Windows 11 PRO - " + getUsername()).c_str());
     clearScreen();
     cout << CYAN "=============================================================================\n";
-    cout << BOLD GREEN "                    CLEANER & DEBLOATER PRO v2.0\n" RESET;
+    cout << BOLD GREEN "                    CLEANER & DEBLOATER v2.0\n" RESET;
     cout << WHITE "                Usuario: " << getUsername() << " | " << getDate() << endl;
     cout << CYAN "=============================================================================\n" RESET;
 
